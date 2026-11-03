@@ -1,0 +1,24 @@
+{
+  "name": "genpark-personal-agent-pulmonary-helium-dilution-frc-skill",
+  "version": "1.0.0",
+  "description": "Calculates Pulmonary Functional Residual Capacity (FRC), Total Lung Capacity (TLC), Residual Volume (RV), and RV/TLC ratio using closed-circuit helium dilution mechanics.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "pulmonary",
+    "frc",
+    "tlc",
+    "residual-volume",
+    "helium-dilution",
+    "lung-volumes",
+    "respiratory",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
